@@ -10,6 +10,6 @@ iOS快捷指令：GiftApp-获取AppStore中关注的app限免以及优惠推送�
          style="width: 45%; max-width: 300px; border-radius: 8px; object-fit: cover;">
     <img src="https://github.com/user-attachments/assets/2d5353e6-3468-47a8-a1fa-6687f4325420" 
          style="width: 45%; max-width: 300px; border-radius: 8px; object-fit: cover;">
-    <img src="https://github.com/user-attachments/assets/2d5353e6-3468-47a8-a1fa-6687f4325420" 
+    <img src="" 
          style="width: 45%; max-width: 300px; border-radius: 8px; object-fit: cover;">
   </div>
