@@ -3,6 +3,8 @@ Get notified instantly when your tracked apps become free on the App Store.
 
 iOS快捷指令：GiftApp-获取AppStore中关注的app限免以及优惠推送。
 
+[iOS快捷指令-GiftApp](https://www.icloud.com/shortcuts/1ef0efbb818d43309f12a218b9f745cd)
+
   <div style="display: flex; gap: 20px; width: 100%; justify-content: center">
     <img src="https://github.com/user-attachments/assets/76d99ca7-d837-43eb-899d-a54a4cc34afc" 
          style="width: 45%; max-width: 300px; border-radius: 8px; object-fit: cover;">
